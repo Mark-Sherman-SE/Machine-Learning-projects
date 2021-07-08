@@ -1,2 +1,9 @@
 # IPython Notebook
 .ipynb_checkpoints
+
+# MNIST data
+Classification/By dataset/MNIST/MNIST/*
+
+# CIFAR10 data
+Classification/By dataset/CIFAR10/cifar-10-python.tar
+Classification/By dataset/CIFAR10/cifar-10-batches-py/*
