@@ -3,3 +3,7 @@
 
 # Folder containing datasets
 dataset
+
+# IDE files
+.idea
+__pycache__
