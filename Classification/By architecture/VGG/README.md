@@ -7,11 +7,11 @@ VGG - архитектура свёрточной нейронной сети, �
 
 Данная архитектура имеет несколько различных интерпретаций:
 
-[Конфигурации VGG](https://github.com/Mark-Sherman-SE/machine-learning-projects/tree/master/docs/images/VGG configurations.png)
+![Конфигурации VGG](https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG%20configurations.png)
 
 На соревновании ILSVRC использовалась интерпретация D или VGG16.
 
-[Стукртура VGG16](https://github.com/Mark-Sherman-SE/machine-learning-projects/tree/master/docs/images/VGG16.png)
+![Структура VGG16](https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG16.png)
 
 ## Реализация
 
