@@ -6,12 +6,14 @@ VGG - архитектура свёрточной нейронной сети, �
 победителя - сети Inception V1 - результат составил 6.67%).
 
 Данная архитектура имеет несколько различных интерпретаций:
-
-![Конфигурации VGG](https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG%20configurations.png)
+<p align="center">
+  <img src="https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG%20configurations.png">
+</p>
 
 На соревновании ILSVRC использовалась интерпретация D или VGG16.
-
-![Структура VGG16](https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG16.png)
+<p align="center">
+  <img src="https://github.com/Mark-Sherman-SE/machine-learning-projects/blob/master/docs/images/VGG16.png">
+</p>
 
 ## Реализация
 
