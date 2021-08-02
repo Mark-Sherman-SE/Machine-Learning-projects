@@ -14,3 +14,4 @@
         * [Journey to Springfield](https://github.com/Mark-Sherman-SE/machine-learning-projects/tree/master/Classification/By%20dataset/Journey%20to%20Springfield)
     * По архитектуре
         * [VGG](https://github.com/Mark-Sherman-SE/machine-learning-projects/tree/master/Classification/By%20architecture/VGG)
+        * [ResNet](https://github.com/Mark-Sherman-SE/machine-learning-projects/tree/master/Classification/By%20architecture/ResNet)
