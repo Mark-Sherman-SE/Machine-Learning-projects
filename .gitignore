@@ -4,6 +4,9 @@
 # Folder containing datasets
 dataset
 
+# Saved model parameters
+model_parameters.pth.tar
+
 # IDE files
 .idea
 __pycache__
